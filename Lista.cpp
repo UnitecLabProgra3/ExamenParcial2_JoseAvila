@@ -78,7 +78,6 @@ void Lista::leerLista()
 void Lista::escribirLista()
 {
     ofstream out("scores.txt");
-    out.app;
     if(inicio == NULL)
         return;
     Nodo*temp = inicio;
