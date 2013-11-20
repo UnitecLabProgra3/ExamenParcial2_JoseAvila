@@ -1,0 +1,6 @@
+Juan 500
+Mel 250
+Chuy 8500
+Testa 350
+Pedro 430
+Pablo 650
